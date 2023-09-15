@@ -1,0 +1,5 @@
+Registro de Usuario
+Ingrese su contraseña: Hash: 404273943
+Login de Usuario
+Ingrese su contraseña, tiene hasta 3 intentos.
+Login realizado correctamente.
